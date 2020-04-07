@@ -73,7 +73,7 @@ This article provides interesting statistics on cyber crime.
 This article is one of the best documented when it comes to cyber insurance policies (at least for the US, the largest market by far). 
 - J.M. Spring, J. Fallon, A. Galyardt, A. Horneman, L. Metcalf, E. Stoner, *Machine learning in cybersecurity: a guide*, Technical report, Carnegie Mellon University, 2019 <br>
 This article explains the pitfalls one may encounter with machine learning. Some are not specific to the field, but the interesting part is on what an attacker may try to fool your detection patterns. 
-- A. Umar, *Memory security in go", Available at https://spacetime.dev/memory-security-go <br>
+- A. Umar, *Memory security in go*, Available at https://spacetime.dev/memory-security-go <br>
 This document explains why it is challenging to implement memory protection with a garbage collected language, and how you can work around this. There's a framework called memguard that can serve as a reference implementation (but not for production use). 
 
 ## Reports
