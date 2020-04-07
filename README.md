@@ -88,9 +88,9 @@ This document explains why it is challenging to implement memory protection with
 
 - ANSSI, *Ebios risk manager*, 2019, Available at https://www.ssi.gouv.fr/en/guide/ebios-risk-manager-the-method/ <br>
   The method used by the French cyber agency to manage cyber risks. 
-- W. Dougherty, P. Curry, *Includes no dirt", Omada, 2019, Available at https://www.omadahealth.com/news/includes-no-dirt-a-practical-threat-modeling-approach-for-digital-healthcare-and-beyond <br>
+- W. Dougherty, P. Curry, *Includes no dirt*, Omada, 2019, Available at https://www.omadahealth.com/news/includes-no-dirt-a-practical-threat-modeling-approach-for-digital-healthcare-and-beyond <br>
   A new framework to threat model your applications, for security and privacy. Designed for healthcare but applicable in a variety of scenarios (just need to change the C = Clinical Error => I suggest C = Correct application of business standards). See also the work of A. Shostack.
-- MITRE, *The att&ck framework", Available at https://attack.mitre.org/ <br>
+- MITRE, *The att&ck framework*, Available at https://attack.mitre.org/ <br>
   A knowledge base on the various attacks (the kill chain).
 
 ## Web resources
@@ -103,7 +103,7 @@ A high level view for decision makers who aren't versed in infosec.
 Practical advice for devs that want to secure their apps (from the point of view of a WAF vendor). 
 - SystemX, *Le coût additionné des attaques par cryptovirus touchant les PME françaises s’élève à plus de 700 millions d’euros par an* (in <u>French</u>, but I put it here because it provides unusual insights), Available at https://www.irt-systemx.fr/le-cout-additionne-des-attaques-par-cryptovirus-touchant-les-pme-francaises-seleve-a-plus-de-700-millions-deuros-par-an/ <br>
 One of the few resources that describe the situation for smaller companies. On average the cost is small (around 10k euros for a SME, which was unexpected) and the frequency is 2 to 5%. For ransomware attacks, the total cost of recovery (when possible) is 25 times the cost asked by thieves. This actually means the risk is low, but SME really need to invest in backup strategies. One other interesting fact is that in France, only 1.24% of companies are cyber insured for a total market value of 28 million euros (the market barely exists).
-- K. Waldron, Resources for measuring cybersecurity, 2019, Available at https://www.rstreet.org/issue/national-security-cybersecurity/ <br>
+- K. Waldron, *Resources for measuring cybersecurity*, 2019, Available at https://www.rstreet.org/issue/national-security-cybersecurity/ <br>
 A list of resources that you might find useful. 
 
 
