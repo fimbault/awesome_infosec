@@ -36,7 +36,7 @@ This video explains the challenge faced by a large company (an energy producer) 
 An interesting talk on threat modeling techniques. 
 
 - Tomorrow Unlocked, *Wannacry: The Marcus Hutchins Story*, 2019, Available at https://www.youtube.com/watch?v=vveLaA-z3-o <br>
-The wannacry ransomware spread, until some nearly random guy found a way to stop it (well, he's later been convicted in the US for hacking).
+The wannacry ransomware spread, until some genius hacker, called Marcus Hutchins, found a way to stop it (see the full story at https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet).
 
 
 ## Litterature
